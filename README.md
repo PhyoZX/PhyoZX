@@ -8,7 +8,7 @@ Ability to work and thrive in a fast-paced environment, learn rapidly, and study
 
 * 🌍  I'm based in Myanmar
 * ✉️  You can contact me at [pkkoo239@gmail.com](mailto:pkkoo239@gmail.com)
-* 🧠  I'm learning Vue Js and React
+* 🧠  I'm learning Python
 * ⚡  The field of machine learning has sparked my interest, and I'm eager to learn more
 
 <a href="https://www.github.com/PhyoZX" target="_blank" rel="noreferrer"><img
