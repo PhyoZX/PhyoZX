@@ -1,7 +1,7 @@
 Hi 👋 My name is Phyo Ko Ko Oo
 ==============================
 
-Junior Web Developer
+
 --------------------
 
 Ability to work and thrive in a fast-paced environment, learn rapidly, and study diverse web technologies and techniques.
